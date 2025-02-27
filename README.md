@@ -1,1 +1,1 @@
-# uob-quantum-computing
+# University of Bristol Quantum Computing Resources
