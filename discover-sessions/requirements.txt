@@ -1,0 +1,6 @@
+qiskit==0.46
+numpy
+jupyterlab
+ipython
+matplotlib
+qiskit-aer==0.14.2
