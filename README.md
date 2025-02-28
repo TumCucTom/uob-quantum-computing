@@ -6,4 +6,4 @@ Home of all the resources for The University of Bristol Quantum Computing Societ
 
 |Session | Slides | Code |
 |:-:|:-:|:-:|
-| Grover's | [Session 1](/discover-sessions/slides/session-1.pptx) |[Notebook](/discover-sessions/grovers.ipynb)|
+| Grover's | [Session 1](/discover-sessions/slides/session-1.pptx) |[Notebook](/discover-sessions/code/grovers.ipynb)|
